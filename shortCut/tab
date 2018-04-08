@@ -1,0 +1,18 @@
+single [tab]  : auto complete
+
+double [tab]  : show all options
+
+
+[stian@v2stian ~]$ ca[tab][tab]
+cacertdir_rehash     ca-legacy            capsh
+cache_check          calibrate_ppa        captoinfo
+cache_dump           caller               caribou-preferences
+cache_metadata_size  canberra-boot        case
+cache_repair         canberra-gtk-play    cat
+cache_restore        cancel               catchsegv
+cairo-sphinx         cancel.cups          catman
+cal                  capinfos
+
+
+[stian@v2stian ~]$ la -al ~/.bash[tab][tab]
+.bash_history  .bash_logout   .bash_profile  .bashrc

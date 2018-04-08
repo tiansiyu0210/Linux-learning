@@ -1,0 +1,9 @@
+case sensitive
+
+command [-option] param1 param2
+
+//set language
+1. check language
+echo $LANG
+2.set
+LANG = en_US

@@ -1,0 +1,12 @@
+bc
+
++ - * /
+
+^  10^2 = 100
+
+% reminder
+
+quit
+
+scale=3  around to 3 digit
+

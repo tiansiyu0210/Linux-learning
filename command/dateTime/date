@@ -1,0 +1,29 @@
+[stian@v2stian ~]$ date
+Sat Apr  7 20:44:27 UTC 2018
+
+
+[stian@v2stian ~]$ date +%Y/%m/%d
+2018/04/07
+
+
+[stian@v2stian ~]$ date +%H:%M
+20:46
+
+
+[stian@v2stian ~]$ date +%Y/%m/%d-%H:%M
+2018/04/07-20:46
+
+
+[stian@v2stian ~]$ date +%a
+Sun
+
+[stian@v2stian ~]$ date +%^a
+SUN
+
+
+
+
+
+
+
+
