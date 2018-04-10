@@ -23,3 +23,23 @@ DESCRIPTION
 
        -I[TIMESPEC], --iso-8601[=TIMESPEC]
               output date/time in ISO 8601 format.  TIMESPEC='date'  for  date
+
+
+
+/[keyword]  ==> search down keyword
+?[keyword]  ==> search up keyword
+
+n/N   *need to google this   use man man
+
+q    ==> quit
+
+space   ==> page down
+[Page Up]/[Page Down]
+[Home]  ==> first page
+[End]   ==> last page
+
+
+[stian@v2stian ~]$ man man
+
+
+

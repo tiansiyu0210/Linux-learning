@@ -1,0 +1,22 @@
+check  man shutdown
+
+example:
+shutdown -h  now   ==> shut down immediately
+
+shutdown -h 20:25   ==> shut down at 20:25
+
+shutdown -h +10  ==> shut down after 10 mins
+
+shutdown -r now  ==> reboot now
+
+shutdown -r +30  'message' ==> reboot 30 mins later with message
+
+shutdown -k now 'message' ==> not shut down, only send out warning
+
+
+[stian@v2stian ~]$ shutdown -k now 'message'
+Must be root.
+
+
+
+shutdown -c ==> cancel shut down
