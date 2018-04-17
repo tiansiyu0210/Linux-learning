@@ -1,1 +1,40 @@
 chgrp : change group of a file or directory
+chown : change owner of a file or directory
+chmod : change file or directory permission
+
+chgrp :
+//note : the group need to in the etc/group
+
+chgrp [-R] users test.txt  // change text.txt to group [users]
+//-R recursive
+
+chown:
+chown [-R] [username] [file or directory]
+chown [-R] [username]:[group name] [file or directory]
+
+chmod:
+
+// method-1
+r : 4
+w : 2
+x : 1
+
+chmod 754 test.txt ==>  -rwxr-xr--
+chmod 664 test.txt ===>  -rw-rw-r--
+chmod 740 test.txt ===>  -rwxr-----
+
+//method-2
+u : user
+g : group
+o : other
+a : all
+
++ : add
+- : remove
+= : assign
+
+chmod u=rwx, go=rx  test.txt  ===> -rwxr-xr-x
+chmod u=rwx, g=rx, o=r test.txt  ===> -rwxr-xr--
+chmod a+w test.txt ===> everyone gain write permission
+chmod a-x test.txt ===> everyone lose execute permission
+
