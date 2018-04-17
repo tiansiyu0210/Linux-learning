@@ -1,0 +1,100 @@
+[stian@v2stian ~]$ ls -al
+total 280
+drwxr-xr-x.  5 stian domain users    68 Oct 11  2017 ?
+drwx------. 41 stian domain users  4096 Apr 16 19:50 .
+drwxr-xr-x.  3 root  root            18 Jun 30  2016 ..
+-rw-r--r--.  1 stian domain users 13651 Jan 11 16:23 4
+-rw-r--r--.  1 stian domain users 13651 Jan 11 16:23 4.1
+-rw-r--r--.  1 stian domain users 13651 Jan 11 16:31 4.2
+-rw-r--r--.  1 stian domain users 13651 Jan 11 16:31 4.3
+drwxr-xr-x.  3 stian domain users    39 Jul  5  2016 .android
+-rw-------.  1 stian domain users 20491 Apr 17 13:45 .bash_history
+-rw-------.  1 stian domain users    18 Jun 30  2016 .bash_logout
+-rw-------.  1 stian domain users   193 Jun 30  2016 .bash_profile
+-rw-------.  1 stian domain users   390 Jul  1  2016 .bashrc
+drwxr-xr-x. 10 stian domain users  4096 Apr 16 14:32 bitcoinj
+-rw-r--r--.  1 stian domain users  7768 Jan 11 16:21 cacert.crt
+drwx------. 14 stian domain users  4096 Apr 10 19:05 .cache
+drwx------. 22 stian domain users  4096 Apr  9 02:00 .config
+drwxr-xr-x.  4 stian domain users  4096 Apr  2 13:34 Desktop
+drwxr-xr-x.  2 stian domain users     6 Jun 30  2016 Documents
+drwxr-xr-x.  5 stian domain users    80 Feb 19 19:32 Downloads
+-rw-------.  1 stian domain users   334 Jun 30  2016 .emacs
+-rw-------.  1 stian domain users    16 Jun 30  2016 .esd_auth
+drwxr-xr-x.  8 stian domain users  4096 Apr  7 20:32 .git
+-rw-r--r--.  1 stian domain users    51 Jun 30  2016 .gitconfig
+drwx------.  3 stian domain users    17 Jul  6  2016 .gnome
+drwx------.  3 stian domain users    19 Apr 10 18:53 .gnome2
+drwx------.  2 stian domain users     6 Jun 30  2016 .gnome2_private
+drwx------.  3 stian domain users    48 Apr 16 19:50 .gnupg
+-rw-------.  1 stian domain users 25134 Apr 16 19:50 .ICEauthority
+drwxr-xr-x.  5 stian domain users    46 Oct  2  2017 IdeaProjects
+drwxr-xr-x.  4 stian domain users    32 Jul  1  2016 .IntelliJIdea15
+drwxr-xr-x.  4 stian domain users    32 Aug 25  2016 .IntelliJIdea2016.2
+drwxr-xr-x.  4 stian domain users    35 Jul  1  2016 .java
+drwx------.  3 stian domain users  4096 Jul 11  2016 .kde
+drwxr-xr-x.  2 stian domain users   104 Apr  4 19:29 Keys
+-rw-------.  1 stian domain users    44 Apr  8 21:39 .lesshst
+drwxr-xr-x.  6 stian domain users    85 Apr 10 03:00 Linux-learning
+drwx------.  3 stian domain users    18 Jun 30  2016 .local
+drwxr-xr-x.  3 stian domain users    42 Jan 16 21:05 .m2
+drwx------.  5 stian domain users    51 Jun 30  2016 .mozilla
+drwxr-xr-x.  2 stian domain users     6 Jun 30  2016 Music
+drwxr-xr-x. 10 stian domain users  4096 Apr  6 19:44 MyProject
+-rw-------.  1 stian domain users 20079 Sep 18  2017 .mysql_history
+drwxr-xr-x.  2 stian domain users    39 Jul  1  2016 .oracle_jre_usage
+drwxr-xr-x.  2 stian domain users     6 Jun 30  2016 Pictures
+drwx------.  3 stian domain users    18 Jul  5  2016 .pki
+drwxr-xr-x.  3 stian domain users    32 Oct 18  2016 Programs
+drwxr-xr-x.  2 stian domain users     6 Jun 30  2016 Public
+-rw-r--r--.  1 stian domain users    17 Apr  7 20:32 README.md
+-rw-r--r--.  1 stian domain users    17 Apr  9 02:03 README.md.save
+drwxr-xr-x.  8 stian domain users    83 Jul  5  2016 rpmbuild
+drwx------.  2 stian domain users    54 Jun 30  2016 .ssh
+drwxr-xr-x.  3 stian domain users    61 Jul  5  2016 .subversion
+drwxr-xr-x.  6 stian domain users  4096 Sep 21  2016 svn
+drwxr-xr-x.  3 stian domain users    27 Jan 10 15:00 swagger-editor
+drwxr-xr-x.  2 stian domain users     6 Jun 30  2016 Templates
+drwxr-xr-x.  3 stian domain users    19 Sep 21  2016 .thumbnails
+drwx------.  3 stian domain users    66 Feb 15  2017 .thunderbird
+-rw-r-----.  1 stian domain users     5 Apr 16 19:50 .vboxclient-clipboard.pid
+-rw-r-----.  1 stian domain users     5 Apr 16 19:50 .vboxclient-display.pid
+-rw-r-----.  1 stian domain users     5 Apr 16 19:50 .vboxclient-draganddrop.pid
+-rw-r-----.  1 stian domain users     5 Apr 16 19:50 .vboxclient-seamless.pid
+drwxr-xr-x.  2 stian domain users     6 Jun 30  2016 Videos
+-rw-r--r--.  1 stian domain users 23245 Apr 17 13:55 .xfce4-session.verbose-log
+-rw-r--r--.  1 stian domain users 24458 Apr 16 13:37 .xfce4-session.verbose-log.last
+
+
+//explain
+-rw-r--r--.           1           stian      domain users   24458       Apr 16 13:37       .xfce4-session.verbose-log.last
+(file permission) (link number)(file owner)  (file group)  (file size)  (last modified at)  (file name)
+
+/*
+ * file permission
+ */
+//first letter
+d : directory
+- : file
+l : linkfile
+b : block device
+c : character device file (like keyboard or mouse)
+
+//other letters
+r : read
+w : write
+x : execute
+- : no permission
+
+//index
+1 ~ 3 : owner permission
+4 ~ 6 : group permission
+7 ~ 9 : other permission
+
+
+// example
+drwxr-xr-- test testgroup jun 19 2017 tice/
+
+so user test can do everything to this directory
+other users who in group testgroup can read and write CANNOT modify it.
+other user outside grouptest CANNOT access this directory.***

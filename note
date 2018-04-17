@@ -7,3 +7,6 @@ command [-option] param1 param2
 echo $LANG
 2.set
 LANG = en_US
+
+
+
