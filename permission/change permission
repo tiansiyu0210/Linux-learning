@@ -38,3 +38,8 @@ chmod u=rwx, g=rx, o=r test.txt  ===> -rwxr-xr--
 chmod a+w test.txt ===> everyone gain write permission
 chmod a-x test.txt ===> everyone lose execute permission
 
+
+NOTE:
+if we only have "r" permission on a directory, means we only can read the file name under this dir,
+cannot access this dir, but with "x" permission, we can access. "w" permission can delete or update this dir.
+
